@@ -36,15 +36,3 @@ DesignBook-Chapter6/
             ├── Program.java
             └── Exercise18.java
 ```
-
-## Cách mở dự án trong Eclipse
-
-1. Mở **Eclipse IDE** với workspace: `C:\Users\ADMIN\eclipse-workspace`.
-2. Trên thanh menu, chọn **File** $\rightarrow$ **Import...**
-3. Trong hộp thoại Import, chọn **General** $\rightarrow$ **Existing Projects into Workspace** $\rightarrow$ nhấn **Next**.
-4. Tại mục **Select root directory**, nhấn **Browse...** và chọn thư mục:
-   `C:\Users\ADMIN\eclipse-workspace\DesignBook-Chapter6`
-5. Tích chọn dự án `DesignBook-Chapter6` và nhấn **Finish**.
-6. Để chạy thử:
-   - Click chuột phải vào bất kỳ lớp demo nào (`Exercise15.java`, `Exercise16.java`, `Exercise17.java`, `Exercise18.java`, hoặc `AllExercisesDemo.java`).
-   - Chọn **Run As** $\rightarrow$ **Java Application**.
